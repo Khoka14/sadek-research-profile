@@ -22,7 +22,6 @@ streamlit run app.py
 
 ## Excel data
 
-The included Sales Data Jan to Dec-2025.xlsx file powers the Sales Data Explorer page.
 
 ## Next upgrades
 
